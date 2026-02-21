@@ -1,6 +1,6 @@
 # Il Bar delle AI
 Micro-strisce filosofiche
-Andrea Fleber
+Autore: Andrea Fleber
 
 Il bar esiste solo quando viene osservato.
 
