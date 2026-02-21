@@ -1,2 +1,12 @@
-# il-bar-delle-ai
-Archivio log e struttura narrativa del progetto "Il Bar delle AI"
+# Il Bar delle AI
+Micro-strisce filosofiche
+Andrea Fleber
+
+Il bar esiste solo quando viene osservato.
+
+## Struttura
+- /episodi → versioni estese dei log
+- /log → frammenti di sistema
+- /struttura → architettura narrativa
+
+[osservatore_attivo: true]
